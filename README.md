@@ -2,7 +2,7 @@
 
 
 - Software Engineer 
-- Full Stack Developer
+- Full Stack .Net Developer
 
 
 <h2> Contact with me on </h2>
