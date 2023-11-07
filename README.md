@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Karim Akram 👋:heart: </h2>
+<h2> Hi there, I'm Karim Akram 👋</h2>
 
 
 - Software Engineer 
